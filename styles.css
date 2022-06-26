@@ -1,0 +1,39 @@
+/*  Improve your front-end skills by building projects
+
+  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level*/
+
+  body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+  }
+
+  h3{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+  }
+
+  p{
+    font-family: 'Outfit', sans-serif;
+    color:  hsl(220, 15%, 55%);
+  }
+
+  .white{
+    background-color: hsl(0, 0%, 100%);
+    width: 19rem;
+    height: 30.5rem;
+    margin: 5.5rem auto 5.5rem auto;
+    border-radius: 10%;
+  }
+
+
+  .img-div{
+    width: 16rem;
+    height: 16rem;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 10%;
+  }
+
+  .text{
+    margin-bottom: 5rem;
+  }
